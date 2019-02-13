@@ -1,0 +1,18 @@
+body{
+	background-color: #2f4f4f;
+}
+.indusrtrious-info{
+	padding:10%;
+}
+a.navbar-item:hover{
+	color: 	#000000 !important;
+}
+.section-card{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.card-icon{
+	display: flex !important;
+	margin: 5% auto 5% auto !important;
+
+}
